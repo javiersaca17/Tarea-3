@@ -56,7 +56,7 @@ El coeficiente de correlación es un valor cuantitativo de la relación entre do
 
 <img src="https://latex.codecogs.com/gif.latex?\rho&space;=&space;\frac{C_{xy}}{\sigma_x&space;\sigma_y}" title="\rho = \frac{C_{xy}}{\sigma_x \sigma_y}" />
 
-
+Evaluando en la función el Coeficiente de Pearson nos da que es de 0.003896 con lo cual podemos afirmar que la correlación entre las variables X, Y pues no es tan fuerte o alta como suponiamos dado que este valor es muy cercano a cero ya que esta en el equilibrio de una proporciionalidad directa e inversa. 
 
 
 
