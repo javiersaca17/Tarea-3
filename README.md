@@ -1,6 +1,6 @@
 # Tarea-3
 ## Punto 1
-En este punto tenemos que encontrar las funciones de densidad marginal $X$ y de $Y$ pero para ello se aplicaron las siguientes ecuaciones, pero 
+En este punto tenemos que encontrar las funciones de densidad marginal X y de Y pero para ello se aplicaron las siguientes ecuaciones, pero 
 primero definimos lo que seria la función marginal de X: 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=f(x)&space;=&space;\int_{-\infty}^{&plus;\infty}&space;f_{x,y}(x,y)&space;\cdot&space;dy&space;=&space;\frac{d}{dx}F_{x}(x)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?f(x)&space;=&space;\int_{-\infty}^{&plus;\infty}&space;f_{x,y}(x,y)&space;\cdot&space;dy&space;=&space;\frac{d}{dx}F_{x}(x)" title="f(x) = \int_{-\infty}^{+\infty} f_{x,y}(x,y) \cdot dy = \frac{d}{dx}F_{x}(x)" /></a> 
@@ -23,5 +23,8 @@ Construyendo los repectivos modelos tenemos el siguiente modelo para X:
 El modelo respectivo para Y con los valores de los parametros evaluados:
 
 <img src="https://latex.codecogs.com/gif.latex?f(y)&space;=&space;\frac{1}{\sqrt{2\pi(6.028)^2}}&space;*&space;exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" title="f(y) = \frac{1}{\sqrt{2\pi(6.028)^2}} * exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" />
+
+## Punto 2
+Desde el supuesto que se asume independencia entre las variables 
 
 
