@@ -31,6 +31,8 @@ Desde el supuesto que se asume independencia entre las variables se pueden multi
 
 ## Punto 3
 ## Calculo de la correlación
-Para el cálculo de la correlación entres nuestras variables marginales X, Y, sabiendo que la correlación es una de tantas técnicas estadisticas que es usada para determinar la relación entre las variables, sabiendo que la correlación puede ser al menos de dos variables o de una variable dependiente y dos o más variables independientes que en ese caso estamos en la presencia de una correlación múltiple.
+Para el cálculo de la correlación entres nuestras variables marginales X, Y, sabiendo que la correlación es una de tantas técnicas estadisticas que es usada para determinar la relación entre las variables, sabiendo que la correlación puede ser al menos de dos variables o de una variable dependiente y dos o más variables independientes que en ese caso estamos en la presencia de una correlación múltiple. En nuestro caso especifico como se trata de una variable discreta con lo cual se hace una sumatoria de la multiplicación de cada término de X con cada término de Y, usando la siguiente fórmula:
+
+<img src="https://latex.codecogs.com/gif.latex?R_{xy}&space;=&space;\int_{-\infty}^{&plus;\infty}\int_{-\infty}^{&plus;\infty}xyf_{x,y}(x,y)&space;\cdot&space;dx&space;dy" title="R_{xy} = \int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty}xyf_{x,y}(x,y) \cdot dx dy" />
 
 
