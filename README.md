@@ -29,8 +29,8 @@ Desde el supuesto que se asume independencia entre las variables se pueden multi
 
 <img src="https://latex.codecogs.com/gif.latex?f(x,y)&space;=&space;f(x)&space;*&space;f(y)&space;=&space;\frac{1}{\sqrt{2\pi(2.28)^2}}&space;*&space;exp[\frac{-(x-9.91)^2}{2(2.28)^2}]&space;*&space;\frac{1}{\sqrt{2\pi(6.028)^2}}&space;*&space;exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" title="f(x,y) = f(x) * f(y) = \frac{1}{\sqrt{2\pi(2.28)^2}} * exp[\frac{-(x-9.9)^2}{2(2.28)^2}] * \frac{1}{\sqrt{2\pi(6.028)^2}} * exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" />
 
-#Punto 3 
-##Calculo de la correlación
-Para el cálculo de la correlación entres nuestras variables marginales X, Y
+## Punto 3
+## Calculo de la correlación
+Para el cálculo de la correlación entres nuestras variables marginales X, Y, sabiendo que la correlación es una de tantas técnicas estadisticas que es usada para determinar la relación entre las variables, sabiendo que la correlación puede ser al menos de dos variables o de una variable dependiente y dos o más variables independientes que en ese caso estamos en la presencia de una correlación múltiple.
 
 
