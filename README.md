@@ -42,6 +42,9 @@ Con un for fue que se recorrio toda la matrzi de probabilidades que estaba conte
 
 Con lo cual con un valor alto de 149.59 podemos asegurar que existe una alta correlación entre ambas variables.
 
+## Coefiente de Pearson
+El coeficiente de correlación es un valor cuantitativo de la relación entre dos o más variables. El coeficiente de correlación puede variar desde -1 a 1 
+
 
 
 
