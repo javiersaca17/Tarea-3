@@ -61,7 +61,8 @@ Evaluando en la función el Coeficiente de Pearson nos da que es de 0.003896 con
 # Punto 4 
 Las  gráficas de las funciones de densidad marginales de las variables X, Y de ajuste se muestran a continuación: 
 
-![](https://github.com/javiersaca17/Tarea3/blob/master/xfx_pdf real.png)
+![](https://github.com/javiersaca17/Tarea-3/blob/master/xfx_pdf%20real.png)
+
 
 
 
