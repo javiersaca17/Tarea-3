@@ -59,9 +59,12 @@ El coeficiente de correlación es un valor cuantitativo de la relación entre do
 Evaluando en la función el Coeficiente de Pearson nos da que es de 0.003896 con lo cual podemos afirmar que la correlación entre las variables X, Y pues no es tan fuerte o alta como suponiamos dado que este valor es muy cercano a cero ya que esta en el equilibrio de una proporciionalidad directa e inversa. 
 
 # Punto 4 
-Las  gráficas de las funciones de densidad marginales de las variables X, Y de ajuste se muestran a continuación: 
+Las  gráficas de las funciones de densidad marginales de las variables X, Y reales se muestran a continuación: 
 
+Para xFx:
 ![](https://github.com/javiersaca17/Tarea-3/blob/master/xfx_pdf%20real.png)
+ParayFy:
+![](https://github.com/javiersaca17/Tarea-3/blob/master/yfy_pdf%20real.png)
 
 
 
