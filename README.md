@@ -52,7 +52,10 @@ El resultado es el siguiente: <img src="https://latex.codecogs.com/gif.latex?C_{
 
 
 ## Coefiente de Pearson
-El coeficiente de correlación es un valor cuantitativo de la relación entre dos o más variables. El coeficiente de correlación puede variar desde -1.00 a 1.00, la correlación de proporcionalidad directa o positiva se establece con los valores +1.00 y de proporcionalidad inversa o negativa -1.00, si no existe relación entre la variables cuando el coeficiente es de 0.00. Para calcular el coeficiente de Pearson es necesario antes calcular la covarianza que ya lo hicimos en el punto anterior, de dicho caso se necesita saber cual es la variación estandar  de las respectivas variables X, Y teniendo una distribución normal corresponde al siguiente parámetro <img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" />
+El coeficiente de correlación es un valor cuantitativo de la relación entre dos o más variables. El coeficiente de correlación puede variar desde -1.00 a 1.00, la correlación de proporcionalidad directa o positiva se establece con los valores +1.00 y de proporcionalidad inversa o negativa -1.00, si no existe relación entre la variables cuando el coeficiente es de 0.00. Para calcular el coeficiente de Pearson es necesario antes calcular la covarianza que ya lo hicimos en el punto anterior, de dicho caso se necesita saber cual es la variación estandar  de las respectivas variables X, Y teniendo una distribución normal corresponde al siguiente parámetro <img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" />, con lo cual con ayuda de este parametro que es para ambas variables X, Y con lo cual calculamos el respectivo coeficiente de correlación de Pearson: 
+
+<img src="https://latex.codecogs.com/gif.latex?\rho&space;=&space;\frac{C_{xy}}{\sigma_x&space;\sigma_y}" title="\rho = \frac{C_{xy}}{\sigma_x \sigma_y}" />
+
 
 
 
