@@ -22,6 +22,6 @@ Construyendo los repectivos modelos tenemos el siguiente modelo para X:
 
 El modelo respectivo para Y con los valores de los parametros evaluados:
 
-<img src="https://latex.codecogs.com/gif.latex?f(y)&space;=&space;\frac{1}{\sqrt{2\pi(6,027)^2}}&space;*&space;exp[\frac{-(x-15,08)^2}{2(6,027)^2}]" title="f(y) = \frac{1}{\sqrt{2\pi(6,027)^2}} * exp[\frac{-(x-15,08)^2}{2(6,027)^2}]" />
+<img src="https://latex.codecogs.com/gif.latex?f(y)&space;=&space;\frac{1}{\sqrt{2\pi(6.028)^2}}&space;*&space;exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" title="f(y) = \frac{1}{\sqrt{2\pi(6.028)^2}} * exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" />
 
 
