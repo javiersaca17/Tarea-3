@@ -47,7 +47,7 @@ La covarianza es el valor que refleja en que cuantía dos variables aleatorias v
 
 <img src="https://latex.codecogs.com/gif.latex?C_{xy}&space;=&space;\int_{-\infty}^{&plus;\infty}\int_{-\infty}^{&plus;\infty}(x-\bar{X})(y-\bar{Y})f_{x,y}(x,y)&space;\cdot&space;dx&space;dy" title="C_{xy} = \int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty}(x-\bar{X})(y-\bar{Y})f_{x,y}(x,y) \cdot dx dy" />
 
-El resultado es el siguiente: <img src="https://latex.codecogs.com/gif.latex?C_{xy}&space;=&space;0.06669" title="C_{xy} = 0.06697" />, con lo cual vemos que es un valor positivo 
+El resultado es el siguiente: <img src="https://latex.codecogs.com/gif.latex?C_{xy}&space;=&space;0.06669" title="C_{xy} = 0.06697" />, con lo cual vemos que es un valor positivo (mayor a cero), con lo cual como mencionamos anteriormente podemos afirmar que la correlación es de tipo directa, este concepto se explica de mejor manera en el coeficiente de Pearson pero en el caso especifico de la covarianza es que a grandes valores de Y corresponden grandes valores de X y al reves también, eso explica la relación directa en covarianza.
 
 
 
