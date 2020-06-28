@@ -1,4 +1,4 @@
-# Tarea-3
+# Tarea-3 MPSS (B66418)
 ## Punto 1
 En este punto tenemos que encontrar las funciones de densidad marginal X y de Y pero para ello se aplicaron las siguientes ecuaciones, pero 
 primero definimos lo que seria la función marginal de X: 
@@ -28,5 +28,9 @@ El modelo respectivo para Y con los valores de los parametros evaluados:
 Desde el supuesto que se asume independencia entre las variables se pueden multiplicar las dos variables por separado, con lo cual la función de densidad conjunta conjunta se puede encontrar más facil asumiendo dicha proposición:
 
 <img src="https://latex.codecogs.com/gif.latex?f(x,y)&space;=&space;f(x)&space;*&space;f(y)&space;=&space;\frac{1}{\sqrt{2\pi(2.28)^2}}&space;*&space;exp[\frac{-(x-9.91)^2}{2(2.28)^2}]&space;*&space;\frac{1}{\sqrt{2\pi(6.028)^2}}&space;*&space;exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" title="f(x,y) = f(x) * f(y) = \frac{1}{\sqrt{2\pi(2.28)^2}} * exp[\frac{-(x-9.9)^2}{2(2.28)^2}] * \frac{1}{\sqrt{2\pi(6.028)^2}} * exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" />
+
+#Punto 3 
+##Calculo de la correlación
+Para el cálculo de la correlación entres nuestras variables marginales X, Y
 
 
