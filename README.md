@@ -65,11 +65,19 @@ Para xFx:
 
 ![](https://github.com/javiersaca17/Tarea-3/blob/master/xfx_pdf%20real.png)
 
-ParayFy:
+Para yFy:
 
 ![](https://github.com/javiersaca17/Tarea-3/blob/master/yfy_pdf%20real.png)
 
+Luego de ello presentamos las curvas de ajuste con distribución normal respectivas para ambas variables:
 
+Para f(x):
+
+![](https://github.com/javiersaca17/Tarea-3/blob/master/f(x)_pdf%20con%20ajuste.png)
+
+Para f(y):
+
+![](https://github.com/javiersaca17/Tarea-3/blob/master/f(y)_pdf%20con%20ajuste.png)
 
 
 
