@@ -79,5 +79,11 @@ Para f(y):
 
 ![](https://github.com/javiersaca17/Tarea-3/blob/master/f(y)_pdf%20con%20ajuste.png)
 
+Por último presentamos la gráfica conjunta en 3D, ya que las anteriores se dan en 3D hay que indicar que para el ploteo de todas estas imagenes se hizo con la librerria de matplot.lib : 
+
+f(x,y) conjunta: 
+
+![](https://github.com/javiersaca17/Tarea-3/blob/master/f(x%2Cy)_pdf%20conjunta.png)
+
 
 
