@@ -62,8 +62,11 @@ Evaluando en la función el Coeficiente de Pearson nos da que es de 0.003896 con
 Las  gráficas de las funciones de densidad marginales de las variables X, Y reales se muestran a continuación: 
 
 Para xFx:
+
 ![](https://github.com/javiersaca17/Tarea-3/blob/master/xfx_pdf%20real.png)
+
 ParayFy:
+
 ![](https://github.com/javiersaca17/Tarea-3/blob/master/yfy_pdf%20real.png)
 
 
