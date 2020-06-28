@@ -45,8 +45,11 @@ Con lo cual con un valor alto de 149.59 podemos asegurar que existe una alta cor
 ## Calculo de la Covarianza
 
 
+
 ## Coefiente de Pearson
-El coeficiente de correlación es un valor cuantitativo de la relación entre dos o más variables. El coeficiente de correlación puede variar desde -1.00 a 1.00, la correlación de proporcionalidad directa o positiva se establece con los valores +1.00 y de proporcionalidad inversa o negativa -1.00, si no existe relación entre la variables cuando el coeficiente es de 0.00. Para calcular el coeficiente de Pearson es necesario antes calcular la covarianza que ya lo hicimos en el punto anterior 
+El coeficiente de correlación es un valor cuantitativo de la relación entre dos o más variables. El coeficiente de correlación puede variar desde -1.00 a 1.00, la correlación de proporcionalidad directa o positiva se establece con los valores +1.00 y de proporcionalidad inversa o negativa -1.00, si no existe relación entre la variables cuando el coeficiente es de 0.00. Para calcular el coeficiente de Pearson es necesario antes calcular la covarianza que ya lo hicimos en el punto anterior, de dicho caso se necesita saber cual es la variación estandar  de las respectivas variables X, Y teniendo una distribución normal corresponde al siguiente parámetro <img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" />
+
+
 
 
 
