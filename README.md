@@ -36,3 +36,4 @@ Para el cálculo de la correlación entres nuestras variables marginales X, Y, s
 <img src="https://latex.codecogs.com/gif.latex?R_{xy}&space;=&space;\int_{-\infty}^{&plus;\infty}\int_{-\infty}^{&plus;\infty}xyf_{x,y}(x,y)&space;\cdot&space;dx&space;dy" title="R_{xy} = \int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty}xyf_{x,y}(x,y) \cdot dx dy" />
 
 
+Con un for fue que se recorrio toda la matrzi de probabilidades que estaba contenida en el archivo "xyp.csv" , el resultado que se obtivo de haber realizador dicho for es el siguiente: 
