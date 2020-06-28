@@ -16,6 +16,12 @@ Debido a que se esta en presencia de variables dscretas como es el caso de la ma
 |Y|6.028|15.10|
 |X|2.28|9.91|
 
-Construyendo los repectivos modelos tenemos el siguiente modelo para X 
+Construyendo los repectivos modelos tenemos el siguiente modelo para X:
 
 <img src="https://latex.codecogs.com/gif.latex?f(x)&space;=&space;\frac{1}{\sqrt{2\pi(2.28)^2}}&space;*&space;exp[\frac{-(x-9.91)^2}{2(2.28)^2}]" title="f(x) = \frac{1}{\sqrt{2\pi(2.28)^2}} * exp[\frac{-(x-9.91)^2}{2(2.28)^2}]" />
+
+El modelo respectivo para Y con los valores de los parametros evaluados:
+
+<img src="https://latex.codecogs.com/gif.latex?f(y)&space;=&space;\frac{1}{\sqrt{2\pi(6,027)^2}}&space;*&space;exp[\frac{-(x-15,08)^2}{2(6,027)^2}]" title="f(y) = \frac{1}{\sqrt{2\pi(6,027)^2}} * exp[\frac{-(x-15,08)^2}{2(6,027)^2}]" />
+
+
