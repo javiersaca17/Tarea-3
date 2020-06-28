@@ -43,7 +43,9 @@ Con un for fue que se recorrio toda la matrzi de probabilidades que estaba conte
 Con lo cual con un valor alto de 149.59 podemos asegurar que existe una alta correlación entre ambas variables.
 
 ## Calculo de la Covarianza
-La covarianza es el valor que refleja en que cuantía dos variables aleatorias varían de forma conjunta respecto a sus medias, la covarianza se calcula se calcula de manera parecida que la correlación en este caso hay que tener cuidado restarle a las variables el valor de la media ya que estamos en el caso de una distribución nominal que es con el siguiente parámetro  <img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" />.
+La covarianza es el valor que refleja en que cuantía dos variables aleatorias varían de forma conjunta respecto a sus medias, la covarianza se calcula se calcula de manera parecida que la correlación en este caso hay que tener cuidado restarle a las variables el valor de la media ya que estamos en el caso de una distribución nominal que es con el siguiente parámetro  <img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" />. Usamos la siguiente ecuación para el calculo de la covarianza:
+
+<img src="https://latex.codecogs.com/gif.latex?C_{xy}&space;=&space;\int_{-\infty}^{&plus;\infty}\int_{-\infty}^{&plus;\infty}(x-\bar{X})(y-\bar{Y})f_{x,y}(x,y)&space;\cdot&space;dx&space;dy" title="C_{xy} = \int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty}(x-\bar{X})(y-\bar{Y})f_{x,y}(x,y) \cdot dx dy" />
 
 
 
