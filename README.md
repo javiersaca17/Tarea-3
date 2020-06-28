@@ -37,3 +37,5 @@ Para el cálculo de la correlación entres nuestras variables marginales X, Y, s
 
 
 Con un for fue que se recorrio toda la matrzi de probabilidades que estaba contenida en el archivo "xyp.csv" , el resultado que se obtivo de haber realizador dicho for es el siguiente: 
+
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;R_{xy}&space;=&space;149,54" title="R_{xy} = 149,54" />
