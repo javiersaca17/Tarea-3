@@ -11,7 +11,7 @@ Tambien la otra contraparte que es la función marginal de Y:
 
 Debido a que se esta en presencia de variables dscretas como es el caso de la marginalidad de esta variables X, Y las funciones marginales son las probabilidad de hallar X y tambien Y. Usamos la función de numpy trabajando con la matriz que proviene del archivo xy.csv. Ya que se calcula la pdf pero a nivel marginal se busca un modelo de mejor ajuste dependiendo de las condiciones que tiene cada variable, dentro de las opciones el mejor ajuste es de la distribución normal y lo mejor es que se ajusta tanto para la pdf de X, como para la pdf de Y por lo cual ese fue el factor determinante para elegir ese tipo de distribución, para encontrar dichos valores se hizo uso del método de curve_fit, los,parametros que se encontraron para cada variable se presentan a continuación:
 
-Para los valores de <img src="https://latex.codecogs.com/gif.latex?\mu" title="\sigma" /> para Y es de 15.10 y para la variable de X es de 9.91, para la otra variable <img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu"/> para Y es de 6.028 y para la variable X es de 2.28.
+Para los valores de <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\sigma" title="\sigma" /></a> para Y es de 15.10 y para la variable de X es de 9.91, para la otra variable <a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\mu" title="\mu" /></a> para Y es de 6.028 y para la variable X es de 2.28.
 
 
 Construyendo los repectivos modelos tenemos el siguiente modelo para X:
