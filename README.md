@@ -22,6 +22,8 @@ El modelo respectivo para Y con los valores de los parametros evaluados:
 
 <img src="https://latex.codecogs.com/gif.latex?f(y)&space;=&space;\frac{1}{\sqrt{2\pi(6.028)^2}}&space;*&space;exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" title="f(y) = \frac{1}{\sqrt{2\pi(6.028)^2}} * exp[\frac{-(x-15.10)^2}{2(6.028)^2}]" />
 
+Con lo cual ya tenemos ya tenemos los modelos para amabas variables X, Y.
+
 ## Punto 2
 Desde el supuesto que se asume independencia entre las variables se pueden multiplicar las dos variables por separado, con lo cual la función de densidad conjunta conjunta se puede encontrar más facil asumiendo dicha proposición:
 
